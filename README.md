@@ -12,7 +12,7 @@ I am currently pursuing BSc (Honours) Computer Science with a Data Science bootc
 
 My most recent project, a Capstone endeavour, delved into the realm to sentiment analysis using Natural Language Processing (NLP). Throughout this project, I aimed to analyse customer sentiment towards various products, leveraging NLP methods to extract insights from textual data. Despite the challenges encountered, such as data inconsistencies and model refinement, the project served as a testament to the power of NLP in understanding customer sentiment. 
 
-<u>https://github.com/anzeelakabir/finalCapstone </u>
+[Link to Capstone Project] <u>https://github.com/anzeelakabir/finalCapstone </u>
 
 **Current Endeavours**
 
